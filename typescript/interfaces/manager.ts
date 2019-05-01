@@ -1,0 +1,3 @@
+interface Manager {
+    hasPower: boolean;
+}

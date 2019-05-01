@@ -1,0 +1,18 @@
+class SimpleCalculator {
+    private x: number;
+    private y: number;
+    z: number;
+
+    constructor(x: number, y: number) {
+        this.x = x;
+        this.y = y;
+    }
+
+    addition() {
+        this.z = this.x + this.y
+    }
+
+    subtraction() {
+        this.z = this.x - this.y
+    }
+}
