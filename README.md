@@ -8,3 +8,13 @@ node --version
 ```
 npm install -g angular-cli
 ```
+
+#### Criando um novo projeto usando CLI 
+```
+ng new BookList
+```
+
+### Executando o projeto
+```
+ng serve
+```
