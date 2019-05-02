@@ -6,6 +6,7 @@ node --version
 
 #### Instalando Angular
 ```
+npm install
 npm install -g angular-cli
 ```
 
@@ -14,7 +15,7 @@ npm install -g angular-cli
 ng new BookList
 ```
 
-### Executando o projeto
+#### Executando o projeto
 ```
 ng serve
 ```
