@@ -1,0 +1,13 @@
+O primeiro decorador é @Input () e deve ser aplicado a qualquer
+propriedade de componente que possa receber dados do componente pai
+
+O segundo decorador é @Output () e deve ser aplicado a qualquer
+propriedade que possa enviar dados para o componente pai
+
+O Angular 2 define uma classe EventEmitter que facilita a geração e o consumo de eventos usando uma
+abordagem semelhante com eventos EventEmitter ou jQuery do Node.js
+
+O evento de saída do tipo string é gerado no método onClick (), e qualquer componente pai
+pode se inscrever nesse evento para receber dados do componente filho.
+
+Chamo um evento do filho que retorna a resposta para o pai

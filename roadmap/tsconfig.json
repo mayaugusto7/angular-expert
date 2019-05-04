@@ -1,4 +1,0 @@
-"script": {   
-    "tsc": "tsc",   
-    "tsc:w": "tsc -w",   
-  }   
